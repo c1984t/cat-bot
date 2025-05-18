@@ -1,10 +1,10 @@
-# ![Cat Bot PFP](https://wsrv.nl/?url=raw.githubusercontent.com/milenakos/cat-bot/main/images/cat.png&h=25) Cat Bot [![top.gg](https://top.gg/api/widget/servers/966695034340663367.svg?noavatar=true)](https://top.gg/bot/966695034340663367) [![Discord Server](https://img.shields.io/discord/966586000417619998?label=discord&logo=discord)](https://discord.gg/cat-stand-966586000417619998) [![Wiki](https://img.shields.io/badge/Wiki-blue?label=Cat%20Bot&logo=wiki.js)](https://wiki.minkos.lol)
+se
 
 Discord Cat Bot Source Code
 
 # Development
 
-Please note self-hosting is hacky and isn't supported, instructions below are for testing/development/messing around. I won't stop you, but you WILL have to mess around with the code a bunch for it to work good, so be warned.
+x
 
 ## Prerequisites
 
